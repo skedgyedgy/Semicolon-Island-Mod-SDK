@@ -1,0 +1,25 @@
+9/20/2022 8:35:08 AM [01]: Log [INFO]: LumiProbes Reset
+9/20/2022 8:37:00 AM [01]: Log [INFO]: LumiProbes Reset
+9/20/2022 8:37:04 AM [01]: Log [INFO]: Bake started
+9/20/2022 8:37:04 AM [01]: Log [INFO]: Done (Bake: 0.001s)
+9/20/2022 8:37:41 AM [01]: Log [INFO]: Bake cancelled
+9/20/2022 8:37:41 AM [01]: Log [INFO]: Done (Bake: 0.002s)
+9/20/2022 8:37:55 AM [01]: Log [INFO]: Done (PlaceEvaluationPoints: 0.04s)
+9/20/2022 8:38:04 AM [01]: Log [INFO]: Done (PlaceLightProbes: 0.001s)
+9/20/2022 8:38:34 AM [01]: Log [INFO]: Done (PlaceLightProbes: 0.036s)
+9/20/2022 8:38:51 AM [01]: Log [INFO]: Done (ResetLightProbes: 0s)
+9/20/2022 8:38:52 AM [01]: Log [INFO]: Done (PlaceLightProbes: 0s)
+9/20/2022 8:39:12 AM [01]: Log [INFO]: Done (PlaceLightProbes: 0.035s)
+9/20/2022 8:40:11 AM [01]: Log [INFO]: Done (PlaceEvaluationPoints: 0.04s)
+9/20/2022 8:40:18 AM [01]: Log [ERRO]: No renderer found for GameObject: Terrain
+9/20/2022 8:40:18 AM [01]: Log [INFO]: Done (PlaceEvaluationPoints: 0.001s)
+9/20/2022 8:40:27 AM [01]: Log [INFO]: Done (ResetLightProbes: 0.035s)
+9/20/2022 8:40:27 AM [01]: Log [INFO]: Done (PlaceLightProbes: 0.035s)
+9/20/2022 8:40:47 AM [01]: Log [INFO]: Done (PlaceLightProbes: 0.544s)
+9/20/2022 8:40:49 AM [01]: Log [INFO]: Done (ResetLightProbes: 0.036s)
+9/20/2022 8:40:55 AM [01]: Log [INFO]: Done (PlaceLightProbes: 2.163s)
+9/20/2022 8:41:11 AM [01]: Log [INFO]: Done (PlaceLightProbes: 0.138s)
+9/20/2022 8:41:13 AM [01]: Log [INFO]: Done (PlaceLightProbes: 0s)
+9/20/2022 8:41:44 AM [01]: Log [INFO]: Done (PlaceLightProbes: 0.543s)
+9/20/2022 8:41:49 AM [01]: Log [INFO]: Bake started
+9/20/2022 8:41:49 AM [01]: Log [INFO]: Done (Bake: 0s)

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 08efd22b63699c5479029e956fffc75d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _mainHand: {instanceID: 0}
+  - _waist: {instanceID: 0}
+  - _upperSpine: {instanceID: 0}
+  - _head: {instanceID: 0}
+  - _firstPersonTarget: {instanceID: 0}
+  - _thirdPersonTarget: {instanceID: 0}
+  - _walkingFootMaterial: {fileID: 13400000, guid: 242812c252a1c014aa1f7cf239c826dd,
+      type: 2}
+  - _idleFootMaterial: {fileID: 13400000, guid: 1e507437eb03c934d85b59b31288ad70,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

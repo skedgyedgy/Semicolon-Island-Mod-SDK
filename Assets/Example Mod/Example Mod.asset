@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Example Mod
+  m_EditorClassIdentifier: 
+  m_GroupName: Example Mod
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 11ade10d78615094d8679717f3e589fe
+  m_SerializeEntries:
+  - m_GUID: a6674529c232c524d9a8d5f64f33d8f0
+    m_Address: Character/SemicolonIsland
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Body
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0b5c08de171c5e04b92352bb8bf7cef3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e0b3af9a92c12246a4ca8c53b1b1612, type: 2}
+    - {fileID: 11400000, guid: 15f8ca6faf28e114dbf51f4a34c826bb, type: 2}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Viewmodel
+  - Spawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Local Player
+  - Water
+  - UI
+  - Viewmodel
+  - PostProcessing
+  - Terrain
+  - Entity
+  - Local Hitboxes
+  - Building Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Thumb
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
