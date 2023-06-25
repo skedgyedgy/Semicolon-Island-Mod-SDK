@@ -1,12 +1,9 @@
 using System.IO;
-using System.Text.RegularExpressions;
 using UnityEditor;
 using UnityEditor.AddressableAssets;
 using UnityEditor.AddressableAssets.Settings;
 using UnityEditor.AddressableAssets.Settings.GroupSchemas;
-using UnityEditor.PackageManager;
 using UnityEngine;
-using UnityEngine.AddressableAssets;
 
 public static class BuildButtons {
     [MenuItem ("Assets/Build Map", validate = true)]
