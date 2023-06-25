@@ -6,8 +6,8 @@ namespace SemicolonIsland.Actors {
         [SerializeField]
         private string nickname = "Scribblebot";
         [SerializeField]
-        private AudioClip attackSound;
+        private AudioClip[] attackSounds;
         [SerializeField]
-        private AudioClip jumpSound;
+        private AudioClip[] jumpSounds;
     }
 }
