@@ -23,6 +23,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Body
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48f9996f07240734aaf852ce5a25b059
+    m_Address: Assets/Example Mod/Props
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prop
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0b5c08de171c5e04b92352bb8bf7cef3, type: 2}
   m_SchemaSet:
